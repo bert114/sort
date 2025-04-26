@@ -7,6 +7,14 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
+const path = require("path");
+
+app.use(express.static(path.join(__dirname, "dist")));
+
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "dist", "index.html"));
+});
+
 app.listen(5000, () => {
   connectDb();
   console.log(`server is running at http://localhost:5000`);
