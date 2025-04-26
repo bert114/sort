@@ -1,0 +1,32 @@
+[
+  {
+    "img": "https://example.com/images/attack-on-titan.jpg",
+    "title": "Attack on Titan",
+    "genre": ["Action", "Drama", "Fantasy"],
+    "description": "After his hometown is destroyed and his mother is killed, Eren Yeager joins the Scout Regiment to get revenge on the Titans."
+  },
+  {
+    "img": "https://example.com/images/demon-slayer.jpg",
+    "title": "Demon Slayer",
+    "genre": ["Action", "Adventure", "Supernatural"],
+    "description": "Tanjiro Kamado becomes a demon slayer to avenge his family and cure his sister Nezuko, who has been turned into a demon."
+  },
+  {
+    "img": "https://example.com/images/one-piece.jpg",
+    "title": "One Piece",
+    "genre": ["Adventure", "Action", "Comedy"],
+    "description": "Monkey D. Luffy sets out to become the Pirate King by finding the legendary One Piece treasure with his Straw Hat crew."
+  },
+  {
+    "img": "https://example.com/images/fullmetal-alchemist.jpg",
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "genre": ["Action", "Adventure", "Drama"],
+    "description": "Two brothers use alchemy to try to bring their mother back to life, but the cost is great. Now they seek the Philosopher's Stone to fix what was lost."
+  },
+  {
+    "img": "https://example.com/images/your-name.jpg",
+    "title": "Your Name",
+    "genre": ["Romance", "Drama", "Fantasy"],
+    "description": "Two teenagers mysteriously swap bodies and form a deep connection across time and space as they try to meet in real life."
+  }
+]
